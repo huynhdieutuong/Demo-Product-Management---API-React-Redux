@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/demo-product-management/static/css/main.2cce8147.chunk.css",
+    "main.js": "/demo-product-management/static/js/main.966167da.chunk.js",
+    "main.js.map": "/demo-product-management/static/js/main.966167da.chunk.js.map",
+    "runtime~main.js": "/demo-product-management/static/js/runtime~main.088f3ae1.js",
+    "runtime~main.js.map": "/demo-product-management/static/js/runtime~main.088f3ae1.js.map",
+    "static/js/2.0d861ac3.chunk.js": "/demo-product-management/static/js/2.0d861ac3.chunk.js",
+    "static/js/2.0d861ac3.chunk.js.map": "/demo-product-management/static/js/2.0d861ac3.chunk.js.map",
+    "index.html": "/demo-product-management/index.html",
+    "precache-manifest.56a5be78f219248a9e81bae687e0c688.js": "/demo-product-management/precache-manifest.56a5be78f219248a9e81bae687e0c688.js",
+    "service-worker.js": "/demo-product-management/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/demo-product-management/static/css/main.2cce8147.chunk.css.map"
+  }
+}
