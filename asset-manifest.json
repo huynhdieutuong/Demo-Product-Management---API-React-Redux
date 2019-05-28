@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/product-management/static/css/main.2cce8147.chunk.css",
-    "main.js": "/product-management/static/js/main.589e8d9b.chunk.js",
-    "main.js.map": "/product-management/static/js/main.589e8d9b.chunk.js.map",
-    "runtime~main.js": "/product-management/static/js/runtime~main.a026ae87.js",
-    "runtime~main.js.map": "/product-management/static/js/runtime~main.a026ae87.js.map",
-    "static/js/2.0d861ac3.chunk.js": "/product-management/static/js/2.0d861ac3.chunk.js",
-    "static/js/2.0d861ac3.chunk.js.map": "/product-management/static/js/2.0d861ac3.chunk.js.map",
-    "index.html": "/product-management/index.html",
-    "precache-manifest.81020daab1971c59ff5400656c2b5205.js": "/product-management/precache-manifest.81020daab1971c59ff5400656c2b5205.js",
-    "service-worker.js": "/product-management/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/product-management/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/Product-Management/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Product-Management/static/js/main.6ab7ae4f.chunk.js",
+    "main.js.map": "/Product-Management/static/js/main.6ab7ae4f.chunk.js.map",
+    "runtime~main.js": "/Product-Management/static/js/runtime~main.4024ac1f.js",
+    "runtime~main.js.map": "/Product-Management/static/js/runtime~main.4024ac1f.js.map",
+    "static/js/2.0d861ac3.chunk.js": "/Product-Management/static/js/2.0d861ac3.chunk.js",
+    "static/js/2.0d861ac3.chunk.js.map": "/Product-Management/static/js/2.0d861ac3.chunk.js.map",
+    "index.html": "/Product-Management/index.html",
+    "precache-manifest.a6e642851b260beef6e8c68655784178.js": "/Product-Management/precache-manifest.a6e642851b260beef6e8c68655784178.js",
+    "service-worker.js": "/Product-Management/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Product-Management/static/css/main.2cce8147.chunk.css.map"
   }
 }
